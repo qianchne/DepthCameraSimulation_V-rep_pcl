@@ -1,0 +1,5 @@
+﻿  源.cpp
+  C:\Program Files\SLAM\PCL 1.9.1\include\pcl-1.9\pcl\point_traits.h: warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  C:\Program Files\SLAM\PCL 1.9.1\include\pcl-1.9\pcl\visualization\interactor_style.h: warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Program Files\SLAM\PCL 1.9.1\include\pcl-1.9\pcl\visualization\pcl_visualizer.h(1609,1): warning C4819:  该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  SLAM.vcxproj -> C:\Users\Q-chen\Desktop\SLAM_C\SLAM\x64\Debug\SLAM.exe
